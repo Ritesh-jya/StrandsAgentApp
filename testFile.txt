@@ -2,3 +2,4 @@
 test file
 new line
 added another line
+test second line
